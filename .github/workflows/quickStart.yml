@@ -33,7 +33,6 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          Explore-GitHub-Actions:
     
   Explore-GihubActions:
     runs-on: ubuntu-latest
